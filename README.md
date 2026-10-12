@@ -1,13 +1,13 @@
-# azimuth API (A4 / AZO) - Flight Tracking, Schedules, Routes & Fleet
+# Azimuth API (A4 / AZO) - Flight Tracking, Schedules, Routes & Fleet
 
-Track **azimuth** (IATA `A4`, ICAO `AZO`, Russia) flights programmatically - real-time status and positions, live schedules, routes and fleet data - through a single [AirLabs API](https://airlabs.co/) integration.
+Track **Azimuth** (IATA `A4`, ICAO `AZO`, Russia) flights programmatically - real-time status and positions, live schedules, routes and fleet data - through a single [AirLabs API](https://airlabs.co/) integration.
 
 This repo has ready-to-run examples (cURL, Python, Node.js) that pull azimuth data by its airline code `A4`. Change the code and the same examples work for any of the 1,000+ airlines AirLabs covers.
 
 > **Full reference:** [azimuth Developer API](https://airlabs.co/azimuth-developer-api)
 > **Free API key:** [airlabs.co/signup](https://airlabs.co/signup)
 
-## What you can pull for azimuth
+## What you can pull for Azimuth
 
 | Data | AirLabs endpoint | Filter |
 | --- | --- | --- |
@@ -81,7 +81,7 @@ Every time field also comes as UTC (`_utc`) and a Unix timestamp (`_ts`).
 
 ## Use cases
 
-- Flight-tracker / status pages featuring azimuth (`A4`) flights
+- Flight-tracker / status pages featuring Azimuth (`A4`) flights
 - Travel apps showing A4 schedules, routes and live ETAs
 - Operational dashboards, delay monitoring and alerts
 - Enriching bookings with aircraft, route and fleet data
@@ -98,4 +98,4 @@ Every time field also comes as UTC (`_utc`) and a Unix timestamp (`_ts`).
 
 ## License
 
-MIT - see [LICENSE](LICENSE). Not affiliated with or endorsed by azimuth; "azimuth" is a trademark of its owner. This repo shows how to access publicly available flight data via the AirLabs API.
+MIT - see [LICENSE](LICENSE). Not affiliated with or endorsed by Azimuth; "Azimuth" is a trademark of its owner. This repo shows how to access publicly available flight data via the AirLabs API.
